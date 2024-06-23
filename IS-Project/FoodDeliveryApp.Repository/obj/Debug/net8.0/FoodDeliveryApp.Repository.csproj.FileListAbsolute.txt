@@ -1,0 +1,15 @@
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Repository.deps.json
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Repository.dll
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Repository.pdb
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Domain.dll
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Domain.pdb
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeli.CBA15105.Up2Date
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.dll
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\refint\FoodDeliveryApp.Repository.dll
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.pdb
+C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\ref\FoodDeliveryApp.Repository.dll
