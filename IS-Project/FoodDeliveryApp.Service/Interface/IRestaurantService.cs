@@ -10,9 +10,12 @@ namespace FoodDeliveryApp.Service.Interface
     public interface IRestaurantService
     {
         List<Restaurant> GetAllRestaurants();
-        Restaurant GetDetailsForRestaurant(Guid? id);
+        public Restaurant GetDetailsForRestaurant(Guid? id);
+        public Task<Restaurant> GetDetailsForRestaurantAsync(Guid? id);
         void CreateNewRestaurant(Restaurant r);
         void UpdateExistingRestaurant(Restaurant r);
         void DeleteRestaurant(Guid id);
+        public Task<FoodItem> AddFoodItemAsync(Guid restaurantId, FoodItem foodItem);
+        Task<bool> DeleteFoodItemAsync(Guid restaurantId, Guid foodItemId);
     }
 }

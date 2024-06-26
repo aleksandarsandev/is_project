@@ -28,14 +28,15 @@ namespace FoodDeliveryApp.Web.Controllers
         }
 
         // GET: Restaurants/Details/5
-        public IActionResult Details(Guid? id)
+        public async Task<IActionResult> Details(Guid? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var restaurant = _restaurantService.GetDetailsForRestaurant(id);
+            var restaurant = await _restaurantService.GetDetailsForRestaurantAsync(id.Value);
+
             if (restaurant == null)
             {
                 return NotFound();
@@ -43,6 +44,7 @@ namespace FoodDeliveryApp.Web.Controllers
 
             return View(restaurant);
         }
+
 
         // GET: Restaurants/Create
         [Authorize]

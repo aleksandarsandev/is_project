@@ -15,6 +15,7 @@ namespace FoodDeliveryApp.Repository
         public virtual DbSet<Restaurant> Restaurants { get; set; }
         public virtual DbSet<FoodItem> FoodItems { get; set; }
         public virtual DbSet<Order> Orders { get; set; }
-        public virtual DbSet<DeliveryOrders> DeliveryOrders { get; set; }
+        public virtual DbSet<DeliveryOrder> DeliveryOrders { get; set; }
+
     }
 }

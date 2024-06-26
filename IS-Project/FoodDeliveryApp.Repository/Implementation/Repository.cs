@@ -7,7 +7,7 @@ namespace FoodDeliveryApp.Repository.Implementation
 {
     public class Repository<T> : IRepository<T> where T : BaseEntity
     {
-        private readonly ApplicationDbContext context;
+        protected readonly ApplicationDbContext context;
         private DbSet<T> entities;
 
         public Repository(ApplicationDbContext context)
@@ -69,5 +69,10 @@ namespace FoodDeliveryApp.Repository.Implementation
             context.SaveChanges();
             return entity;
         }
+        public async Task<T> GetDetailsAsync(Guid? id)
+        {
+            return await entities.FirstOrDefaultAsync(e => e.Id == id);
+        }
+
     }
 }

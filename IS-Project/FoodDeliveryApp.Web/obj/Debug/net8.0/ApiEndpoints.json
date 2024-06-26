@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "AddFoodItem",
+    "RelativePath": "api/Management/AddFoodItem/{restaurantId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurantId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "foodItem",
+        "Type": "FoodDeliveryApp.Domain.Domain.FoodItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "DeleteFoodItem",
+    "RelativePath": "api/Management/DeleteFoodItem/{foodItemId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "foodItemId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "DeleteRestaurant",
+    "RelativePath": "api/Management/DeleteRestaurant/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "GetFoodItem",
+    "RelativePath": "api/Management/GetFoodItem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "GetRestaurant",
+    "RelativePath": "api/Management/GetRestaurant/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "GetRestaurants",
+    "RelativePath": "api/Management/GetRestaurants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "SaveRestaurant",
+    "RelativePath": "api/Management/SaveRestaurant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "restaurant",
+        "Type": "FoodDeliveryApp.Domain.Domain.Restaurant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "UpdateFoodItem",
+    "RelativePath": "api/Management/UpdateFoodItem",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "foodItem",
+        "Type": "FoodDeliveryApp.Domain.Domain.FoodItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FoodDeliveryApp.Web.Controllers.api.ManagementController",
+    "Method": "UpdateRestaurant",
+    "RelativePath": "api/Management/UpdateRestaurant/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "restaurant",
+        "Type": "FoodDeliveryApp.Domain.Domain.Restaurant",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

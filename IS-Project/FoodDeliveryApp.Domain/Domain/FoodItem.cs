@@ -12,8 +12,23 @@ namespace FoodDeliveryApp.Domain.Domain
         [Required]
         public String Name { get; set; }
         [Required]
-        public int Quantity { get; set; }
-        public List<Restaurant>? Restaurants { get; set; }
+        public int Weight { get; set; }
+        [Required]
 
+        public double Price { get; set; }
+        public Guid RestaurantId { get; set; }
+        public Restaurant? Restaurant { get; set; }
+
+        public FoodItem()
+        {
+        }
+
+        public FoodItem(string name, int quantity, double price, Guid restaurantId)
+        {
+            Name = name;
+            Weight = quantity;
+            Price = price;
+            RestaurantId = restaurantId;
+        }
     }
 }

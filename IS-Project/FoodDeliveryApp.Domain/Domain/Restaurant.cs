@@ -10,10 +10,13 @@ namespace FoodDeliveryApp.Domain.Domain
     public class Restaurant :BaseEntity
     {
         [Required]
-        public String Name { get; set; }
-        [Required]
-        public String Location { get; set; }
-        public List<FoodItem>? foodItems { get; set; }
+        public string Name { get; set; }
 
+        [Required]
+        public string Location { get; set; }
+
+        public ICollection<FoodItem> FoodItems { get; set; } = new List<FoodItem>();
     }
+
 }
+

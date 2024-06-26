@@ -13,3 +13,21 @@ C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8
 C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\refint\FoodDeliveryApp.Repository.dll
 C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.pdb
 C:\Users\Aleksandar\Desktop\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\ref\FoodDeliveryApp.Repository.dll
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Repository.deps.json
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Repository.dll
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Repository.pdb
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Domain.dll
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\FoodDeliveryApp.Domain.pdb
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.sourcelink.json
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeli.CBA15105.Up2Date
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.dll
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\refint\FoodDeliveryApp.Repository.dll
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\FoodDeliveryApp.Repository.pdb
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\obj\Debug\net8.0\ref\FoodDeliveryApp.Repository.dll
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Repository\bin\Debug\net8.0\System.Reactive.xml

@@ -7,12 +7,15 @@ using System.Threading.Tasks;
 
 namespace FoodDeliveryApp.Domain.Domain
 {
-    public class Order :BaseEntity
+    public class Order : BaseEntity
     {
-        public Customer? customer { get; set; }
-        public string? customerId { get; set; }
-        public FoodItem? foodItem { get; set; }
-        public Guid? foodItemId { get; set; }
-        public int quantity { get; set; }
+        public Guid DeliveryOrderId { get; set; }
+        public DeliveryOrder DeliveryOrder { get; set; }
+
+        public Guid FoodItemId { get; set; }
+        public FoodItem FoodItem { get; set; }
+
+        public int Quantity { get; set; }
     }
+
 }

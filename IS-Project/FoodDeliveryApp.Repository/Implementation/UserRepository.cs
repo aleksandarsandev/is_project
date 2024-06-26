@@ -30,7 +30,8 @@ namespace FoodDeliveryApp.Repository.Implementation
         {
             var strGuid = id.ToString();
             return entities
-                .First(s => s.Id == strGuid);
+                .Include(u => u.DeliveryOrder)
+                .FirstOrDefault(s => s.Id == strGuid);
         }
         public void Insert(Customer entity)
         {

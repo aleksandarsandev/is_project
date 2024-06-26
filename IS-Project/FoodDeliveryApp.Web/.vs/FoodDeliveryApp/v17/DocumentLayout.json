@@ -1,111 +1,159 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\",
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\order\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\order\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\order\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\order\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\restaurants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\restaurants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.domain\\domain\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.service\\implementation\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.domain\\identity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.domain\\domain\\deliveryorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.service\\implementation\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.repository\\implementation\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.repository\\interface\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.service\\interface\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\controllers\\api\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:controllers\\api\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\restaurants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\restaurants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\restaurants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\restaurants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\fooddeliveryapp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\fooddeliveryapp.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\fooddeliveryapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\identity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\fooddeliveryapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\fooddeliveryapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:fooddeliveryapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -118,47 +166,95 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FoodDeliveryApp.Web_4b94d670_7091_4813_a929_b740f31d366d/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\interface\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\interface\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FoodDeliveryApp.Web_4b94d670_7091_4813_a929_b740f31d366d/True/SqlTable/dbo.Restaurants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\implementation\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\implementation\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.web\\views\\restaurants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\views\\restaurants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816FE5AE-0341-4643-A12F-635310EBC743}|FoodDeliveryApp.Web.csproj|solutionrelative:views\\restaurants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\deliveryorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A38572F6-7C60-4831-9BCD-A9C2025A18E0}|..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\fooddeliveryapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\fooddeliveryapp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\identity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\fooddeliveryapp.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\implementation\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\interface\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\interface\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.service\\implementation\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\deliveryorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\aleksandar\\desktop\\is-project\\fooddeliveryapp.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624193424_new-init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624192830_decimal-to-double.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624192659_updated-models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70F7CD-CBB5-4BA0-A7F1-B3B62CBDD40E}|..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240626112256_quantity-to-weight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9063F83E-0E54-447F-A300-5B2C5F798539}|..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\is_project\\is-project\\fooddeliveryapp.service\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -167,8 +263,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 400,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -176,608 +272,910 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240623175116_mig4.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs",
+              "DocumentIndex": 73,
+              "Title": "20240626112256_quantity-to-weight.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240626112256_quantity-to-weight.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240626112256_quantity-to-weight.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240626112256_quantity-to-weight.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240626112256_quantity-to-weight.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:51:16.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240623174848_mig3.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:48:49.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RestaurantsController.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\RestaurantsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RestaurantsController.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\RestaurantsController.cs",
-              "RelativeToolTip": "Controllers\\RestaurantsController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAYwC8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:39:24.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Restaurant.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Restaurant.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Domain\\Restaurant.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Restaurant.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Domain\\Restaurant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:02:29.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T11:22:57.176Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
               "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
               "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:08:15.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T10:28:48.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FoodItem.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAASwIAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:02:44.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T16:48:33.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Order\\Order.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Order.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Order\\Order.cshtml",
+              "RelativeToolTip": "Views\\Order\\Order.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:51:22.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:06:03.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Index.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:39:26.296Z",
+              "WhenOpened": "2024-06-24T22:58:45.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBsAAAAtAAAA",
+              "DocumentIndex": 1,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Order\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Order\\Orders.cshtml",
+              "RelativeToolTip": "Views\\Order\\Orders.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:40:16.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T11:35:01.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Order\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Order\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "Views\\Order\\OrderConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T11:38:46.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBEAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:17:13.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Details.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:40:17.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T16:44:53.74Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20240623174444_mig2.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:44:44.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T18:43:55.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Properties\\serviceDependencies.json",
-              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Properties\\serviceDependencies.json",
-              "RelativeToolTip": "Properties\\serviceDependencies.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-23T17:18:52.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-23T17:18:32.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAawA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:05:30.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T19:00:44.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FoodDeliveryApp.Domain",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T15:01:30.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FoodDeliveryApp.Service",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T17:36:46.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "DocumentIndex": 74,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Implementation\\OrderService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Implementation\\OrderService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwD0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:04:09.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T10:29:23.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Interface\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Interface\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:32:28.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodItemService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:41:33.635Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "FoodDeliveryApp.Repository",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T15:12:00.687Z",
-              "EditorCaption": ""
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:05:30.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwD0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:00:51.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:35:53.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantsController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwDEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:39:24.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:48:23.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeliveryOrder.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrder.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrder.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrder.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:43:50.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Implementation\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\RestaurantRepository.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Implementation\\RestaurantRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:45:58.566Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAKMAAAAAAAAAAAAkwL4AAAAAAAAA",
+              "Title": "IRestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IRestaurantRepository.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Interface\\IRestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IRestaurantRepository.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Interface\\IRestaurantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:53:56.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-23T16:06:48.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:08:20.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T12:45:14.128Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:06:03.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T22:52:36.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:00:52.517Z",
-              "EditorCaption": ""
+              "DocumentIndex": 20,
+              "Title": "ManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\api\\ManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\api\\ManagementController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Controllers\\api\\ManagementController.cs",
+              "RelativeToolTip": "Controllers\\api\\ManagementController.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAmwNQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:30:17.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:52:10.443Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "20240623172842_mig.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:28:43.135Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T16:06:48.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Delete.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T10:06:34.955Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "FoodDeliveryApp.Web",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
-              "RelativeDocumentMoniker": "FoodDeliveryApp.Web.csproj",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
-              "RelativeToolTip": "FoodDeliveryApp.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T16:08:00.739Z",
-              "EditorCaption": ""
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T10:27:18.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentIndex": 70,
+              "Title": "20240624193424_new-init.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624193424_new-init.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240624193424_new-init.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624193424_new-init.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240624193424_new-init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T16:53:54.115Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:34:24.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240624192830_decimal-to-double.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624192830_decimal-to-double.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240624192830_decimal-to-double.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624192830_decimal-to-double.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240624192830_decimal-to-double.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:28:30.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240624192659_updated-models.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624192659_updated-models.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240624192659_updated-models.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240624192659_updated-models.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240624192659_updated-models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:26:59.552Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Interface\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IUserRepository.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Interface\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwHwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:07:44.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:53:56.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:01:44.08Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:01:22.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:00:48.648Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:01:44.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:00:50.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20240623165959_third.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165959_third.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623165959_third.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165959_third.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623165959_third.cs",
+              "Title": "20240623175116_mig4.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623175116_mig4.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:00:00.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:51:16.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20240623165743_second.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165743_second.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623165743_second.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165743_second.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623165743_second.cs",
+              "DocumentIndex": 29,
+              "Title": "20240623174848_mig3.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174848_mig3.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:57:43.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:48:49.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "FoodItemService.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 49,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Restaurant.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Restaurant.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:45:45.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T15:02:29.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FoodDeliveryApp.Web_4b94d670_7091_4813_a929_b740f31d366d/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-23T16:53:07.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IRestaurantService.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "DocumentIndex": 50,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:46:00.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T15:08:15.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IRepository.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Interface\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "DocumentIndex": 51,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\FoodItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:12:36.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T15:02:44.923Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T17:39:26.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T17:40:16.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBEAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:13:15.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T15:17:13.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T17:40:17.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240623174444_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623174444_mig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:44:44.397Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "IFoodItemService.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IFoodItemService.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Interface\\IFoodItemService.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IFoodItemService.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Interface\\IFoodItemService.cs",
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T17:18:52.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T17:18:32.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FoodDeliveryApp.Domain",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T15:01:30.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FoodDeliveryApp.Service",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T17:36:46.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Identity\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:47:02.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T15:04:09.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FoodDeliveryApp.Repository",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T15:12:00.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:08:20.575Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "dbo.Restaurants [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FoodDeliveryApp.Web_4b94d670_7091_4813_a929_b740f31d366d/True/SqlTable/dbo.Restaurants.sql",
-              "ToolTip": "dbo.Restaurants [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-23T16:49:16.683Z",
-              "EditorCaption": ""
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T17:00:52.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240623172842_mig.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623172842_mig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:28:43.135Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "RestaurantService.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
+              "Title": "FoodDeliveryApp.Web",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
+              "RelativeDocumentMoniker": "FoodDeliveryApp.Web.csproj",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
+              "RelativeToolTip": "FoodDeliveryApp.Web.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T16:08:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T16:53:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:45:47.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:07:44.858Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Restaurants\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Create.cshtml",
-              "RelativeToolTip": "Views\\Restaurants\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T16:44:49.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:36:30.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:01:22.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "20240623163235_init.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T16:32:36.232Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T17:00:48.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "DeliveryOrders.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrders.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrders.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrders.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrders.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:03:03.655Z",
-              "EditorCaption": ""
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T17:00:50.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Title": "20240623165959_third.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165959_third.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165959_third.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165959_third.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165959_third.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:01:55.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:00:00.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240623165743_second.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165743_second.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165743_second.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165743_second.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623165743_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:57:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FoodItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\FoodItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:45:45.646Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Domain\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\ErrorViewModel.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Domain\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FoodDeliveryApp.Web_4b94d670_7091_4813_a929_b740f31d366d/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-23T16:53:07.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IRestaurantService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T14:59:42.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:46:00.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:12:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:13:15.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IFoodItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IFoodItemService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IFoodItemService.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IFoodItemService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Interface\\IFoodItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:47:02.431Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\FoodDeliveryApp.Repository\\Class1.cs",
-              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Class1.cs",
-              "RelativeToolTip": "..\\FoodDeliveryApp.Repository\\Class1.cs",
+              "Title": "dbo.Restaurants [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FoodDeliveryApp.Web_4b94d670_7091_4813_a929_b740f31d366d/True/SqlTable/dbo.Restaurants.sql",
+              "ToolTip": "dbo.Restaurants [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-23T16:49:16.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Service\\Implementation\\RestaurantService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T15:00:15.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T16:45:47.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restaurants\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\Views\\Restaurants\\Create.cshtml",
+              "RelativeToolTip": "Views\\Restaurants\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T16:44:49.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:36:30.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240623163235_init.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Migrations\\20240623163235_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:32:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DeliveryOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrders.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrders.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrders.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\DeliveryOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:03:03.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:01:55.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Domain\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:59:42.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Aleksandar\\Desktop\\IS-Project\\FoodDeliveryApp.Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:00:15.121Z"
             }
           ]
         }

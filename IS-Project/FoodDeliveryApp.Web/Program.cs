@@ -20,7 +20,9 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
+builder.Services.AddScoped(typeof(IRestaurantRepository), typeof(RestaurantRepository));
 
+builder.Services.AddTransient<IOrderService, OrderService>();
 builder.Services.AddTransient<IFoodItemService, FoodItemService>();
 builder.Services.AddTransient<IRestaurantService, RestaurantService>();
 
