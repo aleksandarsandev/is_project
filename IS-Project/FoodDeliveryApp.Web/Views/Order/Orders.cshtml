@@ -1,0 +1,54 @@
+﻿@model FoodDeliveryApp.Domain.Domain.DeliveryOrder
+
+@{
+    ViewData["Title"] = "Your Orders";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+
+
+
+    @if (Model.Orders != null && Model.Orders.Any())
+    {
+        <a class="btn btn-primary w-100" asp-action="OrderConfirmation">Order</a>
+        <h2>Your Orders</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Food Item</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model.Orders)
+                {
+                    <tr>
+                        <td>@order.FoodItem.Name</td>
+                        <td>@order.Quantity</td>
+                        <td>@order.FoodItem.Price</td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2" class="text-right"><strong>Total:</strong></td>
+                    <td><strong>@Model.TotalAmount</strong></td>
+                </tr>
+            </tfoot>
+        </table>
+         <form asp-action="SaveLocation" method="post">
+            <div class="form-group">
+                <label asp-for="Location" class="control-label"></label>
+                <input asp-for="Location" class="form-control" required />
+                <span asp-validation-for="Location" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Save</button>
+            </form>
+    }
+    else
+    {
+        <h2>You have no orders.</h2>
+    }
+</div>

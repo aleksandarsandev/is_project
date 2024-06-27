@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\restaurant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\restaurant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\restaurant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\restaurant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\restaurant\\addfooditem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\restaurant\\addfooditem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FoodDeliveryApp.Web_4b94d670_7091_4813_a929_b740f31d366d/True/SqlTable/dbo.DeliveryOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\models\\deliveryorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\models\\deliveryorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|c:\\users\\aleksandar\\desktop\\lab-is\\is_project\\is-project\\fooddeliverymanagementapp\\eshopadminapplication_2\\fooddeliverymanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{158DEEFD-B55A-4D52-B666-EF3DF4E33962}|EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj|solutionrelative:eshopadminapplication_2\\fooddeliverymanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Restaurant\\Create.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\Restaurant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Restaurant\\Create.cshtml",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\Restaurant\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T11:46:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Restaurant\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\Restaurant\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Restaurant\\Delete.cshtml",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\Restaurant\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T11:46:04.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Controllers\\FoodItemController.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Controllers\\FoodItemController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Controllers\\FoodItemController.cs",
+              "RelativeToolTip": "EShopAdminApplication_2\\Controllers\\FoodItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:44:48.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "EShopAdminApplication_2\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAArwJYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:44:42.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddFoodItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Restaurant\\AddFoodItem.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\Restaurant\\AddFoodItem.cshtml",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Restaurant\\AddFoodItem.cshtml",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\Restaurant\\AddFoodItem.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T11:43:46.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.DeliveryOrders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_FoodDeliveryApp.Web_4b94d670_7091_4813_a929_b740f31d366d/True/SqlTable/dbo.DeliveryOrders.sql",
+              "ToolTip": "dbo.DeliveryOrders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-27T11:07:11.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T11:53:02.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T11:53:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T11:52:55.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T11:52:47.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T11:52:21.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\appsettings.json",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\appsettings.json",
+              "RelativeToolTip": "EShopAdminApplication_2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T11:53:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Program.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Program.cs",
+              "RelativeToolTip": "EShopAdminApplication_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:53:12.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "EShopAdminApplication_2\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:53:25.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeliveryOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Models\\DeliveryOrder.cs",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Models\\DeliveryOrder.cs",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Models\\DeliveryOrder.cs",
+              "RelativeToolTip": "EShopAdminApplication_2\\Models\\DeliveryOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:53:20.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EShopAdminApplication_2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T11:52:44.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodDeliveryManagementApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj",
+              "RelativeDocumentMoniker": "EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj",
+              "ToolTip": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj",
+              "RelativeToolTip": "EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T11:52:03.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

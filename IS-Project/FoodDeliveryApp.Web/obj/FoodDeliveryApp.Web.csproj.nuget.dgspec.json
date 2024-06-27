@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
+        "projectName": "FoodDeliveryApp.Domain",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
+        "projectName": "FoodDeliveryApp.Repository",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Azure.DurableTask.Core": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
+        "projectName": "FoodDeliveryApp.Service",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
+              },
+              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
+        "projectName": "FoodDeliveryApp.Web",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
+              },
+              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj"
+              },
+              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GemBox.Document": {
+              "target": "Package",
+              "version": "[35.0.1784, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
