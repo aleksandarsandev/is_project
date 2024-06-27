@@ -5594,24 +5594,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Aleksandar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj",
       "projectName": "FoodDeliveryManagementApp",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\obj\\",
+      "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\FoodDeliveryManagementApp.csproj",
+      "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryManagementApp\\EShopAdminApplication_2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

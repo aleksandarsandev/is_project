@@ -35,3 +35,23 @@ C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_projec
 C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\ref\FoodDeliveryApp.Service.dll
 C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\System.Reactive.dll
 C:\Users\andre\OneDrive\Desktop\Faklutet\6ti semestar\IS\Food delivery\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\System.Reactive.xml
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\FoodDeliveryApp.Service.deps.json
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\FoodDeliveryApp.Service.dll
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\FoodDeliveryApp.Service.pdb
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\FoodDeliveryApp.Domain.dll
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\FoodDeliveryApp.Repository.dll
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\FoodDeliveryApp.Domain.pdb
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\FoodDeliveryApp.Repository.pdb
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\bin\Debug\net8.0\System.Reactive.xml
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeliveryApp.Service.csproj.AssemblyReference.cache
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeliveryApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeliveryApp.Service.AssemblyInfoInputs.cache
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeliveryApp.Service.AssemblyInfo.cs
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeliveryApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeliveryApp.Service.sourcelink.json
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeli.524ECD59.Up2Date
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeliveryApp.Service.dll
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\refint\FoodDeliveryApp.Service.dll
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\FoodDeliveryApp.Service.pdb
+C:\Users\Aleksandar\Desktop\lab-is\is_project\IS-Project\FoodDeliveryApp.Service\obj\Debug\net8.0\ref\FoodDeliveryApp.Service.dll

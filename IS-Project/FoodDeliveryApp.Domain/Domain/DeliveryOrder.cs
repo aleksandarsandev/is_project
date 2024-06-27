@@ -12,5 +12,6 @@ namespace FoodDeliveryApp.Domain.Domain
         public DateTime OrderDate { get; set; }
         public ICollection<Order> Orders { get; set; } = new List<Order>();  
         public double TotalAmount { get; set; }
+        public string? Location { get; set; }
     }
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj": {}
+    "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
+    "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
         "projectName": "FoodDeliveryApp.Domain",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,21 +74,17 @@
         }
       }
     },
-    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
+    "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
         "projectName": "FoodDeliveryApp.Repository",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\obj\\",
+        "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
+              "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
               }
             }
           }
@@ -168,21 +160,17 @@
         }
       }
     },
-    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj": {
+    "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
         "projectName": "FoodDeliveryApp.Service",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\obj\\",
+        "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj",
+        "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,11 +184,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
+              "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
               },
-              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj"
+              "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj"
               }
             }
           }
@@ -245,21 +233,17 @@
         }
       }
     },
-    "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj": {
+    "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
         "projectName": "FoodDeliveryApp.Web",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Web\\obj\\",
+        "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Web\\FoodDeliveryApp.Web.csproj",
+        "packagesPath": "C:\\Users\\Aleksandar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Aleksandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -273,14 +257,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
+              "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Domain\\FoodDeliveryApp.Domain.csproj"
               },
-              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj"
+              "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Repository\\FoodDeliveryApp.Repository.csproj"
               },
-              "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj"
+              "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj": {
+                "projectPath": "C:\\Users\\Aleksandar\\Desktop\\lab-is\\is_project\\IS-Project\\FoodDeliveryApp.Service\\FoodDeliveryApp.Service.csproj"
               }
             }
           }
@@ -300,6 +284,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "GemBox.Document": {
+              "target": "Package",
+              "version": "[35.0.1784, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
