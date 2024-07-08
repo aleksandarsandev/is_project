@@ -12,7 +12,7 @@ namespace EShopAdminApplication_2.Controllers
         public FoodItemController()
         {
             _httpClient = new HttpClient();
-            _httpClient.BaseAddress = new Uri("http://localhost:5165/");
+            _httpClient.BaseAddress = new Uri("https://fooddeliveryappweb20240627193225.azurewebsites.net/");
             _httpClient.DefaultRequestHeaders.Accept.Clear();
             _httpClient.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
         }

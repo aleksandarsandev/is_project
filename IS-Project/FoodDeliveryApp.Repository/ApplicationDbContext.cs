@@ -3,7 +3,6 @@ using FoodDeliveryApp.Domain.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Net.Sockets;
-
 namespace FoodDeliveryApp.Repository
 {
     public class ApplicationDbContext : IdentityDbContext<Customer>

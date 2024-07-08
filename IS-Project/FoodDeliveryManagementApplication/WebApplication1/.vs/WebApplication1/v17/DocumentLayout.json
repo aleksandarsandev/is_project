@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|c:\\users\\andre\\onedrive\\desktop\\faklutet\\6ti semestar\\is\\food delivery\\new_is_project\\is_project\\is-project\\fooddeliverymanagementapplication\\webapplication1\\webapplication1\\views\\restaurant\\addfooditem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\restaurant\\addfooditem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\restaurant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\restaurant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\restaurant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\restaurant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\restaurant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\restaurant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\restaurant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\restaurant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\restaurant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\restaurant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\fooditem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\fooditem\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\fooditem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\fooditem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\models\\deliveryorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\deliveryorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77936D77-82A8-4A5C-8B4A-9BA367448920}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Restaurant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Restaurant\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:39.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:16:21.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:18:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddFoodItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\AddFoodItem.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Restaurant\\AddFoodItem.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\AddFoodItem.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Restaurant\\AddFoodItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:37.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Restaurant\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Restaurant\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:51.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Restaurant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Restaurant\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Restaurant\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Restaurant\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:43.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Restaurant\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Restaurant\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Restaurant\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:47.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodItemController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Controllers\\FoodItemController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\FoodItemController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Controllers\\FoodItemController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\FoodItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:16:02.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\FoodItem\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\FoodItem\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\FoodItem\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\FoodItem\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\FoodItem\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\FoodItem\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\FoodItem\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\FoodItem\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:21.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:19:45.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\Restaurant.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:18:33.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\Order.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:18:28.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\FoodItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\FoodItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:18:26.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryOrder.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\DeliveryOrder.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\DeliveryOrder.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\DeliveryOrder.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\DeliveryOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:18:22.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\Customer.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:18:19.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:18:11.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Desktop\\Faklutet\\6ti semestar\\IS\\Food delivery\\new_is_project\\is_project\\IS-Project\\FoodDeliveryManagementApplication\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:16:06.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

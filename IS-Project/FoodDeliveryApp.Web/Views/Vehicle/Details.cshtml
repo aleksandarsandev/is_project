@@ -1,0 +1,27 @@
+﻿@model FoodDeliveryApp.Domain.Domain.OtherApp.OtherAppVehicleFormula
+
+<h1>Vehicle Details</h1>
+
+<div>
+    <h4>Name: @Model.Name</h4>
+    <p>Engines: @Model.Engines</p>
+    <p>Chassis: @Model.Chassis</p>
+    <p>Doors: @Model.Doors</p>
+    <p>Wheels: @Model.Wheels</p>
+    @if (Model.VehicleParts.Count > 0)
+    {
+        <h4>Parts:</h4>
+        <ul>
+            @foreach (var part in Model.VehicleParts)
+            {
+                <li>@part.Name - @part.Description - @part.Price</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No parts available for this vehicle.</p>
+    }
+</div>
+
+<a asp-action="Index">Back to List</a>

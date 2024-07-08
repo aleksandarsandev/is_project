@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArgeF1sPc6kGdlQpiw9qCvQAAAAACAAAAAAAQZgAAAAEAACAAAACD8U73xEdu6KqRnVFq42zlYM/QQtZaFCgq68S6lbRENQAAAAAOgAAAAAIAACAAAAAvcoe3tjtoCzBYkkG8wyhV0abhmq7+bv4tGW2kHCd79oAAAADK3S6DmuBS8a0aZDHsgnou4LvjUHf3QBAnJ9Ucrw1fuu9fhGM+xMTkhkxjxVckQhvmZGNM2tvugK9Ir29D5yRSomcPHXXLnY3ct95ABlHG/botVRr1UZof5U3Lf+fJJEuHkVNK2PX8eNsR+HglzaZyBnMiHpOFHyEjwMcQarg2LUAAAAApHxGlYLHCTftjOJR0fKVOjyZyNASU2w2Hn3TT4S97dwXuTHOFpr+Eya2wypPB8VA442r8n2P6rdlRffakDi9n</EncryptedPassword>
+    <History>True|2024-07-08T00:43:16.6173667Z;True|2024-06-28T20:15:03.9694566+02:00;False|2024-06-28T20:12:44.5267428+02:00;True|2024-06-27T19:52:28.6487890+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=fooddeliveryapp-webdbserver.database.windows.net,1433%3bInitial Catalog=FoodDeliveryApp.Web_db%3bUser ID=aleksandarandrej%3bPassword=IS211229andrej211213aleksandar</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="FoodDeliveryApp.Repository.ApplicationDbContext">
+      <Value>Data Source=fooddeliveryapp-webdbserver.database.windows.net,1433%3bInitial Catalog=FoodDeliveryApp.Web_db%3bUser ID=aleksandarandrej%3bPassword=IS211229andrej211213aleksandar</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

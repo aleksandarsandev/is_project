@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.EntityFrameworkCore;
 using System.Text;
+using Microsoft.Extensions.Configuration;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace FoodDeliveryApp.Web.Controllers
@@ -19,14 +20,16 @@ namespace FoodDeliveryApp.Web.Controllers
         private readonly IRestaurantService _restaurantService;
         private readonly UserManager<Customer> _userManager;
         private readonly IOrderService _orderService;
+        private readonly IConfiguration _configuration;
 
-        public OrderController(IFoodItemService foodItemService, IRestaurantService restaurantService, UserManager<Customer> userManager, IOrderService orderService)
+        public OrderController(IFoodItemService foodItemService, IRestaurantService restaurantService, UserManager<Customer> userManager, IOrderService orderService, IConfiguration configuration)
         {
             _foodItemService = foodItemService;
             _restaurantService = restaurantService;
             _userManager = userManager;
             _orderService = orderService;
             ComponentInfo.SetLicense("FREE-LIMITED-KEY");
+            _configuration = configuration;
         }
 
         [Authorize]
@@ -214,8 +217,8 @@ namespace FoodDeliveryApp.Web.Controllers
 
             user = _userManager.Users
                 .Include(u => u.DeliveryOrder)
-                .ThenInclude(o=>o.Orders)
-                .ThenInclude(order=>order.FoodItem)
+                .ThenInclude(o => o.Orders)
+                .ThenInclude(order => order.FoodItem)
                 .FirstOrDefault(u => u.Id == user.Id);
 
             if (user == null)
@@ -223,13 +226,16 @@ namespace FoodDeliveryApp.Web.Controllers
                 return RedirectToAction("Login", "Account");
             }
 
-            var templatePath = Path.Combine(Directory.GetCurrentDirectory(), "template.docx");
-            var document = DocumentModel.Load(templatePath);
+            var blobService = new BlobService(_configuration);
+            using var templateStream = await blobService.GetTemplateStreamAsync("template.docx");
+            var document = DocumentModel.Load(templateStream);
+
             document.Content.Replace("{{Name}}", user.FirstName.ToString());
             document.Content.Replace("{{Surname}}", user.LastName.ToString());
             document.Content.Replace("{{Email}}", user.Email.ToString());
             document.Content.Replace("{{Address}}", user.DeliveryOrder.Location.ToString());
             document.Content.Replace("{{Date}}", user.DeliveryOrder.OrderDate.ToString());
+
             StringBuilder sb = new StringBuilder();
             foreach (var item in user.DeliveryOrder.Orders)
             {
@@ -238,13 +244,13 @@ namespace FoodDeliveryApp.Web.Controllers
             }
             document.Content.Replace("{{OrderList}}", sb.ToString());
             document.Content.Replace("{{Total}}", user.DeliveryOrder.TotalAmount.ToString());
-            var stream = new MemoryStream();
+
+            using var stream = new MemoryStream();
             document.Save(stream, new PdfSaveOptions());
+            stream.Position = 0;
 
-
-            
             return File(stream.ToArray(), new PdfSaveOptions().ContentType, "ExportOrder.pdf");
-
         }
+
     }
 }

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<FoodDeliveryApp.Domain.Domain.OtherApp.OtherAppVehicleFormula>
+
+@{
+    ViewData["Title"] = "All Vehicles";
+}
+
+<h1>All Vehicles</h1>
+
+<div>
+    <a asp-controller="ShoppingCart" asp-action="Index" class="btn btn-primary">View Shopping Carts</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Engines</th>
+            <th>Chassis</th>
+            <th>Doors</th>
+            <th>Wheels</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var vehicle in Model)
+        {
+            <tr>
+                <td>@vehicle.Name</td>
+                <td>@vehicle.Engines</td>
+                <td>@vehicle.Chassis</td>
+                <td>@vehicle.Doors</td>
+                <td>@vehicle.Wheels</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@vehicle.Id">View Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

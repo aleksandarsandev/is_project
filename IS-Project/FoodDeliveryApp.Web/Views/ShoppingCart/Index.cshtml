@@ -1,0 +1,27 @@
+﻿@model List<FoodDeliveryApp.Domain.Domain.OtherApp.dto.ShoppingCartDto>
+
+<h1>All Shopping Carts</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Company Name</th>
+            <th>Vehicle Name</th>
+            <th>Vehicle Color</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cart in Model)
+        {
+            <tr>
+                <td>@cart.CompanyName</td>
+                <td>@cart.VehicleName</td>
+                <td>@cart.VehicleColor</td>
+                <td>@cart.Price</td>
+                <td><a asp-controller="ShoppingCart" asp-action="Details" asp-route-id="@cart.Id">Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

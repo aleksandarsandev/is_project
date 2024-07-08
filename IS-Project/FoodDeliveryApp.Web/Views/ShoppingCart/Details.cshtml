@@ -1,0 +1,44 @@
+﻿@model FoodDeliveryApp.Domain.Domain.OtherApp.dto.ShoppingCartDto
+
+<h1>Shopping Cart Details</h1>
+
+<div>
+    <h4>Company Name: @Model.CompanyName</h4>
+    <h4>Vehicle Name: @Model.VehicleName</h4>
+    <h4>Vehicle Color: @Model.VehicleColor</h4>
+    <h4>Price: @Model.Price</h4>
+</div>
+
+<h3>Vehicle Parts:</h3>
+@if (Model.VehicleParts.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Description</th>
+                <th>Manufacturer</th>
+                <th>Vehicle Formula ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var part in Model.VehicleParts)
+            {
+                <tr>
+                    <td>@part.Name</td>
+                    <td>@part.Price</td>
+                    <td>@part.Description</td>
+                    <td>@part.Manufacturer</td>
+                    <td>@part.VehicleFormulaId</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No vehicle parts found.</p>
+}
+
+<a asp-controller="ShoppingCart" asp-action="Index">Back to Shopping Carts</a>

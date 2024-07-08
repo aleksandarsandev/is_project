@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodDeliveryApp.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+537cc7ac6c7e4e0080a5f2200622051879c2186c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodDeliveryApp.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodDeliveryApp.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

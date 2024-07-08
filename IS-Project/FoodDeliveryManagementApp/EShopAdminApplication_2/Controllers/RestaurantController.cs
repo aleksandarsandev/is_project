@@ -13,7 +13,7 @@ namespace EShopAdminApplication_2.Controllers
         {
             _httpClient = new HttpClient
             {
-                BaseAddress = new Uri("http://localhost:5165/"),
+                BaseAddress = new Uri("https://fooddeliveryappweb20240627193225.azurewebsites.net/"),
                 DefaultRequestHeaders =
                 {
                     Accept = { new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json") }
@@ -98,7 +98,7 @@ namespace EShopAdminApplication_2.Controllers
                     // Prepare HttpClient and URL
                     using (var client = new HttpClient())
                     {
-                        string apiUrl = "http://localhost:5165/api/Management/SaveRestaurant";
+                        string apiUrl = "https://fooddeliveryappweb20240627193225.azurewebsites.net/api/Management/SaveRestaurant";
 
                         // Serialize restaurant object to JSON
                         string json = JsonConvert.SerializeObject(restaurant);
